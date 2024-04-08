@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\Capitalize , interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{125BF5A5-A905-44D9-A815-A8C279487EF0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kamil\\desktop\\capitalize , interfaces\\consoleapp1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BF5A5-A905-44D9-A815-A8C279487EF0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125BF5A5-A905-44D9-A815-A8C279487EF0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kamil\\desktop\\capitalize , interfaces\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BF5A5-A905-44D9-A815-A8C279487EF0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125BF5A5-A905-44D9-A815-A8C279487EF0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kamil\\desktop\\capitalize , interfaces\\consoleapp1\\interface\\icodeacademy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125BF5A5-A905-44D9-A815-A8C279487EF0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interface\\icodeacademy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Capitalize , interfaces\\ConsoleApp1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Capitalize , interfaces\\ConsoleApp1\\Models\\Student.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:14:11.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICodeAcademy.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Capitalize , interfaces\\ConsoleApp1\\Interface\\ICodeAcademy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\ICodeAcademy.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Capitalize , interfaces\\ConsoleApp1\\Interface\\ICodeAcademy.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interface\\ICodeAcademy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:49:41.764Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Capitalize , interfaces\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Capitalize , interfaces\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:13:21.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
